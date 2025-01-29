@@ -71,3 +71,4 @@ var obj = {nombre: "Carlos", apellido: "Vaca", edad: 45}
 for  (var i= 0, j=10; i <= j; i++, j--){
     console.log ("a ["+ i+"] ["+ j +"]")
 }
+asdasdad
